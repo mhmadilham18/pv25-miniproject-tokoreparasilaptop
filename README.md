@@ -67,15 +67,7 @@ Aplikasi ini dikembangkan menggunakan **PyQt** dan **Qt Designer**, dengan fokus
 
 ## Tampilan UI
 
-### Sebelum Penyesuaian UI
-> (Tampilan sebelum menggunakan StyleSheet)
 
-![Tampilan Awal](display/1.png)
-
----
-
-### Setelah Penyesuaian UI
-> (Tampilan setelah menggunakan StyleSheet)
 
 | No | Tampilan | Gambar |
 |:-|:-|:-|
