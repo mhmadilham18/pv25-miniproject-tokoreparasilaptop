@@ -69,17 +69,17 @@ Aplikasi ini dikembangkan menggunakan **PyQt** dan **Qt Designer**, dengan fokus
 
 
 
-| No | Tampilan | Gambar |
-|:-|:-|:-|
-| 1 | Halaman Login | ![Login Page](display/1.png) |
-| 2 | Pop-up Login Gagal | ![Login Failed](display/2.png) |
-| 3 | Pop-up Login Berhasil | ![Login Success](display/3.png) |
-| 4 | Dashboard | ![Dashboard](display/4.png) |
-| 5 | Menu Pencatatan Barang | ![Barang Masuk](display/5.png) |
-| 6 | Form Input Perbaikan | ![Input Form](display/6.png) |
-| 7 | Menu Transaksi | ![Transaksi](display/7.png) |
-| 8 | Form Input Transaksi | ![Input Transaksi](display/8.png) |
-| 9 | Menu Melihat Data | ![Lihat Data](display/9.png) |
-| 10 | Data Barang Tercatat | ![Data Perbaikan](display/10.png) |
+| No | Tampilan                | Gambar |
+|:-|:------------------------|:-|
+| 1 | Halaman Login           | ![Login Page](display/1.png) |
+| 2 | Input Data Login        | ![Login Failed](display/2.png) |
+| 3 | Pop-up Login Gagal      | ![Login Success](display/3.png) |
+| 4 | Pop Up Login Sukses     | ![Dashboard](display/4.png) |
+| 5 | Dashboard               | ![Barang Masuk](display/5.png) |
+| 6 | Form Input Perbaikan    | ![Input Form](display/6.png) |
+| 7 | Pop-up Sukses           | ![Transaksi](display/7.png) |
+| 8 | Form Input Transaksi    | ![Input Transaksi](display/8.png) |
+| 9 | Pop-up Sukses           | ![Lihat Data](display/9.png) |
+| 10 | Data Barang Tercatat    | ![Data Perbaikan](display/10.png) |
 | 11 | Data Transaksi Tercatat | ![Data Transaksi](display/11.png) |
 
