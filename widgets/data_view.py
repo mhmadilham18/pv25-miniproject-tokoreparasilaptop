@@ -7,8 +7,6 @@ from data.detail_perbaikan import data_perbaikan
 from data.detail_transaksi import data_transaksi
 from PyQt5.QtWidgets import QHeaderView, QStyledItemDelegate
 
-
-
 class DataViewWidget(QWidget):
     def __init__(self):
         super().__init__()

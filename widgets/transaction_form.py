@@ -15,7 +15,6 @@ class TransactionForm(QWidget):
     def init_ui(self):
         main_layout = QVBoxLayout()
 
-
         # Form Title
         form_title = QLabel("Tambah Data Transaksi")
         form_title.setFont(QFont('Arial', 14, QFont.Bold))

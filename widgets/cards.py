@@ -23,8 +23,6 @@ class CardWidget(QWidget):
         container.setLayout(container_layout)
         container.setFixedWidth(450)
 
-
-
         # Icon
         self.icon_label = QLabel()
         if self.icon_path:
